@@ -12,6 +12,6 @@
  - Live Site : [https://faq-accordion-virid-five.vercel.app/](https://faq-accordion-virid-five.vercel.app/)
 
 Preview
-![assets/imagens/Preview.jpg](assets/imagens/Preview.jpg)
+![assets/images/Preview.jpg](assets/images/Preview.jpg)
 
  
