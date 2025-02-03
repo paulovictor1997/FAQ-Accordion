@@ -7,9 +7,12 @@
  - HTML5/CSS
 
 ## Links 
- - Frontend mentor : [https://www.frontendmentor.io/profile/paulovictor1997](Frontend mentor profile)
+ - Frontend mentor : [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
+
  - Live Site : []()
 
-Print 
+Preview
+
+![]
 
  
