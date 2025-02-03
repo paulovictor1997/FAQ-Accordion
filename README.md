@@ -12,7 +12,7 @@
 
  - Live Site : [https://faq-accordion-virid-five.vercel.app/](https://faq-accordion-virid-five.vercel.app/)
 
-Preview
+## Preview
 ![assets/images/Preview.jpg](assets/images/Preview.jpg)
 
  
