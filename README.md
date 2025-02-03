@@ -9,10 +9,9 @@
 ## Links 
  - Frontend mentor : [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
 
- - Live Site : []()
+ - Live Site : [https://faq-accordion-virid-five.vercel.app/](https://faq-accordion-virid-five.vercel.app/)
 
 Preview
-
-![]
+![assets/imagens/Preview.jpg](assets/imagens/Preview.jpg)
 
  
