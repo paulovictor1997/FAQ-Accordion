@@ -5,6 +5,7 @@
 
 ## What i use / O que eu usei
  - HTML5/CSS
+ - Bootstrap
 
 ## Links 
  - Frontend mentor : [https://www.frontendmentor.io/profile/paulovictor1997](https://www.frontendmentor.io/profile/paulovictor1997)
