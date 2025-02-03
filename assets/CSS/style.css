@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Work Sans';
+}
+
+:root{
+    --title:hsl(292, 42%, 14%);
+    --bckgFaq:hsl(0, 0%, 100%);
+    --font:hsl(292, 16%, 49%);
+    --white:hsl(0, 0%, 100%);
+    --bodyBckg:hsl(275, 100%, 97%);
+    --hover:hsl(342, 81%, 70%);
+}
+
+body{
+    background-image: url(../images/background-pattern-desktop.svg);
+    background-repeat: repeat-x;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: var(--bodyBckg);
+}
+
+.title{
+    color: var(--title);
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.btn{
+    color: var(--title);
+    font-size: 20px;
+    font-weight: 700;
+    transition: .8s all;
+}
+
+.accordion-body{
+    color: var(--font);
+    font-weight: 800;
+}
+
+.btn:hover{
+   color: var(--hover);
+}
+
+.accordion{
+    border-radius: 30px;
+}
+
+footer{
+    text-align: center;
+    padding: 5px;
+    color: var(--font);
+}
+
+footer a {
+    text-decoration: none;
+    color: var(--title);
+    transition: .8s all;
+    font-weight: bold;
+}
+
+footer a:hover {
+    color: var(--hover);
+}
+
+
+@media screen and (max-width:900px) {
+    .title{
+        font-size: 25px;
+    }
+
+    .btn{
+        font-size: 16px;
+    }
+}
